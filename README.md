@@ -1,5 +1,9 @@
 # Torque3D_Unofficial
-Torque3D Game Engine - Unofficial Repository
+Torque3D Game Engine - Unofficial Repository.
+
+[![GitHub tag](https://img.shields.io/badge/tag--orange.svg)](https://github.com/John3/Torque3D_Unofficial/tags)
+[![GitHub release](https://img.shields.io/badge/release--blue.svg)](https://github.com/John3/Torque3D_Unofficial/releases/latest)
+[![Github release](https://img.shields.io/badge/downloads--green.svg)](https://github.com/John3/Torque3D_Unofficial/releases/latest)
 
 ## Download in release section
 - Added commits of Dec 12, 2016 - 54456fa - (T3D 3.10RC)
