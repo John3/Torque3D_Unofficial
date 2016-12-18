@@ -8,6 +8,9 @@ Torque3D Game Engine - Unofficial Repository.
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)
 
 
+[![IRC](https://img.shields.io/badge/irc-%23garagegames-green.svg)](https://kiwiirc.com/client/irc.maxgaming.net/?nick=wiki_user|?#garagegames)
+
+
 ## Download in release section
 - Added commits of Dec 12, 2016 - 54456fa - (T3D 3.10RC)
 - Added commits of Dec 9, 2016 - 6309495
