@@ -3,8 +3,10 @@ Torque3D Game Engine - Unofficial Repository.
 
 [![GitHub tag](https://img.shields.io/badge/tag--orange.svg)](https://github.com/John3/Torque3D_Unofficial/tags)
 [![GitHub release](https://img.shields.io/github/release/John3/Torque3D_Unofficial.svg)](https://github.com/John3/Torque3D_Unofficial/releases/latest)
-[![Packagist Pre Release](https://img.shields.io/packagist/vpre/symfony/symfony.svg)](https://github.com/John3/Torque3D_Unofficial/releases)
+[![Packagist Pre Release](https://img.shields.io/packagist/vpre/Torque3D_Unofficial/Torque3D_Unofficial.svg)](https://github.com/John3/Torque3D_Unofficial/releases)
 [![Github release](https://img.shields.io/github/downloads/John3/Torque3D_Unofficial/latest/total.svg)](https://github.com/John3/Torque3D_Unofficial/releases/latest)
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 
 ## Download in release section
