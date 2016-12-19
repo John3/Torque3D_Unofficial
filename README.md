@@ -19,4 +19,4 @@ Torque3D Game Engine - Unofficial Repository.
 - [...](https://github.com/John3/Torque3D_Unofficial/releases)
 
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)
+[![license](https://img.shields.io/github/license/John3/Torque3D_Unofficial.svg)](http://choosealicense.com/licenses/mit/)
