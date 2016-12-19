@@ -9,7 +9,7 @@ Torque3D Game Engine - Unofficial Repository.
 
 
 ## Download in release section
-- Added commits of Dec 12, 2016 - 54456fa - v1.0.15 (T3D 3.10RC)
+- Added commits of Dec 12, 2016 - [54456fa](https://github.com/GarageGames/Torque3D/commit/54456fa4fa13fc4a5ebfe28edcd921ad5c93e278) - [v1.0.15](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.15) (T3D 3.10RC)
 - Added commits of Dec 9, 2016 - 6309495 - v1.0.14
 - Added commits of Nov 2, 2016 - 00a4a21 - v1.0.13
 - Added commits of Sep 14, 2016 - c83efa5 - v1.0.11
