@@ -9,14 +9,14 @@ Torque3D Game Engine - Unofficial Repository.
 
 
 ## Download in release section
-- Added commits of Dec 12, 2016 - 54456fa - v1.0.15 (T3D 3.10RC)
-- Added commits of Dec 9, 2016 - 6309495 - v1.0.14
-- Added commits of Nov 2, 2016 - 00a4a21 - v1.0.13
-- Added commits of Sep 14, 2016 - c83efa5 - v1.0.11
-- Added commits of Aug 21, 2016 - fcfe2d6 - v1.0.10
-- Added commits of Aug 8, 2016 - 2794f18 - v1.0.9
-- Added commits of Jul 11, 2016 - 5fa8504 - v1.0.8 (T3D 3.9)
+- Added commits of Dec 12, 2016 - [54456fa](https://github.com/GarageGames/Torque3D/commit/54456fa4fa13fc4a5ebfe28edcd921ad5c93e278) - [v1.0.15](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.15) (T3D 3.10RC)
+- Added commits of Dec 9, 2016 - 6309495 - [v1.0.14](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.14)
+- Added commits of Nov 2, 2016 - 00a4a21 - [v1.0.13](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.13)
+- Added commits of Sep 14, 2016 - c83efa5 - [v1.0.11](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.11)
+- Added commits of Aug 21, 2016 - fcfe2d6 - [v1.0.10](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.10)
+- Added commits of Aug 8, 2016 - 2794f18 - [v1.0.9](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.9)
+- Added commits of Jul 11, 2016 - [5fa8504](https://github.com/GarageGames/Torque3D/commit/5fa8504568871e227c557a6a584f487b3bbce29f) - [v1.0.8](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.8) - (T3D 3.9)
 - [...](https://github.com/John3/Torque3D_Unofficial/releases)
 
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)
+[![license](https://img.shields.io/github/license/John3/Torque3D_Unofficial.svg)](http://choosealicense.com/licenses/mit/)
