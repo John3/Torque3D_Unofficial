@@ -7,6 +7,9 @@ Torque3D Game Engine - Unofficial Repository.
 
 [![IRC](https://img.shields.io/badge/irc-%23garagegames-green.svg)](https://kiwiirc.com/client/irc.maxgaming.net/?nick=wiki_user|?#garagegames)
 
+Clean Torque3D dev builds.
+
+Forum: http://forums.torque3d.org/viewtopic.php?f=2&t=665#p5508
 
 ## Download in release section
 
