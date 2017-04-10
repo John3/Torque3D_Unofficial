@@ -13,7 +13,7 @@ Forum: http://forums.torque3d.org/viewtopic.php?f=2&t=665#p5508
 
 ## Download in release section
 
-- Added commits of Feb 04, 2017 - [5c8a821](https://github.com/John3/Torque3D/commit/5c8a82180b4e25c08449b2c0261541d08c9ff24b) - [v1.18](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.18)
+- Added commits of Feb 04, 2017 - [5c8a821](https://github.com/John3/Torque3D/commit/5c8a82180b4e25c08449b2c0261541d08c9ff24b) - [v1.18](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.18) (T3D v3.10)
 - Added commits of Jan 25, 2017 - [ac19e0e](https://github.com/John3/Torque3D/commit/ac19e0e84c98f682a7467789ae41017c38faf930) - [v1.17-rc.1](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.17-rc.1)
 - Added commits of Jan 9, 2017 - [6164f36](https://github.com/GarageGames/Torque3D/commit/6164f36c473cc9f01fdd14b56fc0949422aff7f8) - [v1.0.16-rc.3](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.16-rc.3)
 - Added commits of Dec 29, 2016 - [38554f7](https://github.com/GarageGames/Torque3D/commit/38554f7396f02fc1c8b6b13c00acd52178be205a) - [v1.0.16-rc.2](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.0.16-rc.2) (T3D v3.10-RC.2)
