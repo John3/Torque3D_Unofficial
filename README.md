@@ -13,6 +13,7 @@ Forum: http://forums.torque3d.org/viewtopic.php?f=2&t=665#p5508
 
 ## Download in release section
 
+- Added commits of Feb 14, 2018 - [e079536](https://github.com/John3/Torque3D/commit/e0795361220283991408734ecd95cf2a6438727d) - [v1.24](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.24)
 - Added commits of Feb 4, 2018 - [e4427b7](https://github.com/John3/Torque3D/commit/e4427b76548f41086043244ad5c944e870eb963f) - [v1.23](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.23)
 - Added commits of Nov 27, 2017 - [74b7e4c](https://github.com/John3/Torque3D/commit/74b7e4cd89f4a0fee65d3f831c35df349d16f8c3) - [v1.22](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.22)
 - Added commits of Oct 28, 2017 - [48f50d1](https://github.com/John3/Torque3D/commit/48f50d19c35d61d914bc641e7bddd7d89ff0bb60) - [v1.21](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.21)
