@@ -31,7 +31,8 @@ Using the *BaseGame* and Module *FPSGameplay* template.  If you want the old *Fu
 4. Run `t3d_x64.exe`
 
 ## Linux - How-To:
-**From GUI:** use *Archive Manager*, doble click (Ubuntu Linux)
+**From GUI:** use *Archive Manager*, doble click (Ubuntu Linux).
+
 **From console:** `$ tar xJvf t3d_linux_x64.tar.xz`
 
 Using the *Full* template. If you want the new template, see **"Windows - How-To"**.
