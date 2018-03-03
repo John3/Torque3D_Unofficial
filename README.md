@@ -51,6 +51,7 @@ Using the *Full* template. If you want the new template, see **"Windows - How-To
 * **checksums.md5:** Checksum to verify data integrity. [MD5](https://en.wikipedia.org/wiki/MD5)
 
 **Note:** If you have any problem with the new template **"BaseGame + Module"**, try using the old **"Full"** template.
+
 **Note2:** If you don't have a custom main.cs, throw the content of the game folder into your game project folder and replace.
 
 **Forum:** [Last development commit binary! 32bit & 64bit](http://forums.torque3d.org/viewtopic.php?f=2&t=665)
