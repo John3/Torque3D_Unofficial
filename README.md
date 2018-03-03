@@ -9,9 +9,53 @@ Torque3D Game Engine - Unofficial Repository.
 
 Clean Torque3D dev builds.
 
-Forum: http://forums.torque3d.org/viewtopic.php?f=2&t=665#p5508
+- **SO:** Windows, Linux
+- **GitHub Branch:** Development
+- **Compressed:** [7zip](http://www.7-zip.org/) - [Xz](https://en.wikipedia.org/wiki/Xz)
+- **Win Compiled:** default CMake options + VS14_2015 release Win32(x86)/Win64(x64)
+- **Linux Compiled:** default CMake options + CodeBlock + Ninja release Linux x64
+- **Template:** BaseGame and Full
+- **Modules:** BlankGame(y), FPSGameplay(y), spectatorGameplay(y)
+- **Graphics:** Direct3D 11, OpenGL 3.3
+- **Physics:** Bullet(y) - PhysX(n)
+- **Window and Input:** SDL(y) - DirectX(y)
+- **Tools:** SQLite(n)
 
-## Download in release section
+## Windows - How-To:
+Use [7zip](http://www.7-zip.org/) 
+
+Using the *BaseGame* and Module *FPSGameplay* template.  If you want the old *Full* template, see **"Linux - How-To"**.
+1. Extract *Templates.tar.xz,* and rename BaseGame with your game name. **Ex:** `MyGame/`
+2. Copy the folder *FPSGameplay* into data folder. **Ex:** `MyGame/game/data/FPSGameplay/`
+3. Extract *t3d_x64.tar.xz* into the game folder of your project. **Ex:** `MyGame/game/t3d_x64.exe`
+4. Run `t3d_x64.exe`
+
+## Linux - How-To:
+**From GUI:** use *Archive Manager*, doble click (Ubuntu Linux)
+**From console:** `$ tar xJvf t3d_linux_x64.tar.xz`
+
+Using the *Full* template. If you want the new template, see **"Windows - How-To"**.
+1. Extract *Full.tar.xz* and rename Full with your game name. **Ex:** `MyGame/`
+2. Extract *t3d_x64.tar.xz* into the game folder of your project **Ex:** `MyGame/game/t3d_x64.exe`
+3. Run `t3d_x64`
+
+**Legend:**
+
+* **Templates.tar.xz:** Include BaseGame and Modules.
+   * **BaseGame folder:** The basic for run the engine.
+   * **Modules folder:** Included the official modules.
+* **Full.tar.xz:** The old Full template.
+* **t3d_x86.7z:** This will run your engine/game in Windows 32Bits only.
+* **t3d_x64.tar.xz:** This will run your engine/game. Include Windows64 and Linux64.
+* **t3d_x64_bullet.tar.xz:** This will run your engine/game with "Bullet physics" active. Include Windows64 and Linux64.
+* **checksums.md5:** Checksum to verify data integrity. [MD5](https://en.wikipedia.org/wiki/MD5)
+
+**Note:** If you have any problem with the new template **"BaseGame + Module"**, try using the old **"Full"** template.
+**Note2:** If you don't have a custom main.cs, throw the content of the game folder into your game project folder and replace.
+
+**Forum:** [Last development commit binary! 32bit & 64bit](http://forums.torque3d.org/viewtopic.php?f=2&t=665)
+
+## Downloads in releases section
 
 - Added commits of Feb 14, 2018 - [e079536](https://github.com/John3/Torque3D/commit/e0795361220283991408734ecd95cf2a6438727d) - [v1.24](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.24)
 - Added commits of Feb 4, 2018 - [e4427b7](https://github.com/John3/Torque3D/commit/e4427b76548f41086043244ad5c944e870eb963f) - [v1.23](https://github.com/John3/Torque3D_Unofficial/releases/tag/v1.23)
